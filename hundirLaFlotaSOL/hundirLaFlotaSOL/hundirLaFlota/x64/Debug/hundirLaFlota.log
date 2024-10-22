@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kille\Downloads\hundirLaFlotaSOL\hundirLaFlotaSOL\hundirLaFlota\main.cpp(5,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\kille\Downloads\hundirLaFlotaSOL\hundirLaFlotaSOL\hundirLaFlota\main.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  hundirLaFlota.vcxproj -> C:\Users\kille\Downloads\hundirLaFlotaSOL\hundirLaFlotaSOL\x64\Debug\hundirLaFlota.exe
